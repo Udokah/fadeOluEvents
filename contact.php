@@ -118,9 +118,14 @@ $description = 'We are a full-service event management company and provide the f
 
                         <div class="address">
 
-                            <p><strong>phone</strong> +234 081 3275 8092</p>
+                            <ul>
+                                <li><strong>Phone</strong></li>
+                                <li>+234 0810 225 9188</li>
+                                <li>+234 0803 546 4419</li>
+                                <li>+234 0803 740 3171</li>
+                            </ul>
 
-                            <p><strong>email</strong> peacearmstrong05@gmail.com</p>
+                            <p><strong>email</strong> fadeoluevents@gmail.com</p>
 
                             <p><strong>Address</strong>
                             275 CANON ADEYEMI ROAD

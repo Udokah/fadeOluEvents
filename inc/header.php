@@ -9,7 +9,9 @@
 <img src='img/phone.png' />
 <ul>
 <li>Call us now </li>
-<li>+234 081 3275 8092</li>
+<li>+234 0810 225 9188</li>
+<li>+234 0803 546 4419</li>
+<li>+234 0803 740 3171</li>
 </ul>
 </td>
 </tr>

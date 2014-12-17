@@ -13,12 +13,12 @@ $description = 'Fade-Olu is a full service company that provides complete consul
             $(".Slideshow > div:gt(0)").hide();
             setInterval(function() {
                 $('.Slideshow > div:first')
-                    .fadeOut(800)
+                    .fadeOut(300)
                     .next()
-                    .fadeIn(800)
+                    .fadeIn(300)
                     .end()
                     .appendTo('.Slideshow');
-            },  5000);
+            },  1500);
         });
 
     </script>
@@ -64,6 +64,8 @@ $description = 'Fade-Olu is a full service company that provides complete consul
 
         <strong>Adverts Here</strong>
 
+        <img style="width: 260px" src="img/fadeads.jpg">
+
     </div>
 
     <div class="clear"></div>
@@ -80,9 +82,12 @@ $description = 'Fade-Olu is a full service company that provides complete consul
 </div>
 </div><!-- end of box holder -->
 </div>
+
 </section><!-- End of Section -->
 
 <div class="clear"></div>
+
+
 </div><!-- End of main  wrapper  -->
 
 <?php include('inc/footer.php') ; ?>
