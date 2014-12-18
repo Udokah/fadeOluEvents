@@ -120,9 +120,9 @@ $description = 'We are a full-service event management company and provide the f
 
                             <ul>
                                 <li><strong>Phone</strong></li>
-                                <li>+234 0810 225 9188</li>
-                                <li>+234 0803 546 4419</li>
-                                <li>+234 0803 740 3171</li>
+                                <li>+234 810 225 9188</li>
+                                <li>+234 803 546 4419</li>
+                                <li>+234 803 740 3171</li>
                             </ul>
 
                             <p><strong>email</strong> fadeoluevents@gmail.com</p>

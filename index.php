@@ -13,12 +13,12 @@ $description = 'Fade-Olu is a full service company that provides complete consul
             $(".Slideshow > div:gt(0)").hide();
             setInterval(function() {
                 $('.Slideshow > div:first')
-                    .fadeOut(300)
+                    .fadeOut(500)
                     .next()
-                    .fadeIn(300)
+                    .fadeIn(500)
                     .end()
                     .appendTo('.Slideshow');
-            },  1500);
+            },  5000);
         });
 
     </script>
